@@ -44,7 +44,7 @@ export default function SocialsHeader({
           <div className="flex flex-col items-center gap-4 text-center md:flex-row md:text-left">
             <div className="relative flex h-20 w-20 items-center justify-center rounded-2xl overflow-hidden border-2 border-brand-pink/30 bg-white shadow-md animate-bounce-slow shrink-0">
               <img 
-                src="/src/assets/images/zen_scoops_favicon_1779277220468.png" 
+                src="/src/assets/images/scoop logo-01.png" 
                 alt="Zen Scoops Logo" 
                 className="h-full w-full object-cover"
                 referrerPolicy="no-referrer"
