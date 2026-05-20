@@ -1,0 +1,6 @@
+{
+  "name": "Zen Scoops",
+  "description": "Interactive digital menu and custom order builder for Zen Scoops Ice Cream, Shakes, Cocktails, & Café",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
